@@ -1,0 +1,32 @@
+team,wins,losses,ot_losses,PTS,GF,GA,goal_diff,Country
+Tampa Bay Lightning,62,16,4,128,325,222,103,USA
+Calgary Flames,50,25,7,107,289,227,62,CA
+Boston Bruins,49,24,9,107,259,215,44,USA
+Washington Capitals,48,26,8,104,278,249,29,USA
+New York Islanders,48,27,7,103,228,196,32,USA
+San Jose Sharks,46,27,9,101,289,261,28,USA
+Toronto Maple Leafs,46,28,8,100,286,251,35,CA
+Nashville Predators,47,29,6,100,240,214,26,USA
+Pittsburgh Penguins,44,26,12,100,273,241,32,USA
+Winnipeg Jets,47,30,5,99,272,244,28,CA
+Carolina Hurricanes,46,29,7,99,245,223,22,USA
+St. Louis Blues,45,28,9,99,247,223,24,USA
+Columbus Blue Jackets,47,31,4,98,258,232,26,USA
+Montreal Canadiens,44,30,8,96,249,236,13,CA
+Dallas Stars,43,32,7,93,210,202,8,USA
+Vegas Golden Knights,43,32,7,93,249,230,19,USA
+Colorado Avalanche,38,30,14,90,260,246,14,USA
+Arizona Coyotes,39,35,8,86,213,223,-10,USA
+Florida Panthers,36,32,14,86,267,280,-13,USA
+Chicago Blackhawks,36,34,12,84,270,292,-22,USA
+Minnesota Wild,37,36,9,83,211,237,-26,USA
+Philadelphia Flyers,37,37,8,82,244,281,-37,USA
+Vancouver Canucks,35,36,11,81,225,254,-29,CA
+Anaheim Ducks,35,37,10,80,199,251,-52,USA
+Edmonton Oilers,35,38,9,79,232,274,-42,CA
+New York Rangers,32,36,14,78,227,272,-45,USA
+Buffalo Sabres,33,39,10,76,226,271,-45,USA
+Detroit Red Wings,32,40,10,74,227,277,-50,USA
+New Jersey Devils,31,41,10,72,222,275,-53,USA
+Los Angeles Kings,31,42,9,71,202,263,-61,USA
+Ottawa Senators,29,47,6,64,242,302,-60,CA
